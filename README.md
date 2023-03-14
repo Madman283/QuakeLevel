@@ -1,4 +1,4 @@
-# Water Temple
+# Temple
 Quake Level
 
 A competitive multiplayer fps map that focuses on mobility and player engagement.
